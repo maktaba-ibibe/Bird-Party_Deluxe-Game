@@ -1,4 +1,4 @@
-const cacheName = "Ibibe-Birds Party Delux-0.33";
+const cacheName = "Ibibe-Birds Party Delux-0.35";
 const contentToCache = [
     "Build/birdspartydelux.loader.js",
     "Build/birdspartydelux.framework.js.br",
